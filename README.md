@@ -7,5 +7,9 @@ This repository is dedicated to opening, discussing and activating new BIPs. BIP
 Creation of a new BIP starts with opening an issue within this repository. After discussion, BIP can be activated and will be find in following table as ``` Active ```
 | Number | Title | Status|
 | -------- | -------- | -------- |
-| 1    | Membership rules | Active    |
-| 2  | Proof of crime| Proposed   |
+| 1 | Membership rules | Active    |
+| 2 | Proof of crime| Proposed   |
+| 3 | Add a plotting surface| Proposed   |
+| 4 | NFCs for members | Proposed   |
+| 5 | New Logo |  Proposed   |
+
