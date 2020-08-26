@@ -8,7 +8,7 @@ Creation of a new BIP starts with opening an issue within this repository. After
 | Number | Title | Status|
 | -------- | -------- | -------- |
 | 1 | Membership rules | Active    |
-| 2 | Proof of crime| Proposed   |
+| 2 | Proof of crime| Rejected  |
 | 3 | Add a plotting surface| Proposed   |
 | 4 | NFCs for members | Proposed   |
 | 5 | New Logo |  Proposed   |
